@@ -1,7 +1,5 @@
 # Simpale_React_Web_Application
 
-
-    <h3> This is a simple react web application. </h3>
     
 <h3>The application include: </h3>
 <ul>
