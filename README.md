@@ -1,4 +1,4 @@
-# Simpale_React_Web_Application
+# Simple_React_Web_Application
 
     
 <h3>The application include: </h3>
